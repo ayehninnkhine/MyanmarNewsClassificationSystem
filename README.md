@@ -11,6 +11,10 @@ http://blog.datumbox.com/machine-learning-tutorial-the-naive-bayes-text-classifi
 
 http://blog.datumbox.com/using-feature-selection-methods-in-text-classification/
 
+Citation
+============
+Please cite the following paper if you use the datasets in this repository. 
+A.H.Khine, K.T.Nwet, K.M.Soe, Automatic Myanmar News Classification, 15th Proceedings of International Conference on Computer Applications, February 2017, pp. 401-408
 
 Useful Links
 ============
